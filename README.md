@@ -3,7 +3,7 @@ OpenCSV-3.0
 
 This is the OpenCSV improvement from https://code.google.com/p/opencsv/
 
-The version is increased to 3.0 due to the behavior is not backward compatible. If you would like a CSV parser to be similar to MS Excel and MySQL default behavior, this will be a good one. The decision was made due to CIShell Powered tool is targeting users with no or limited programming skills. These users tend to be familiar with MS Excel, OpenOffice, etc. Programmer users can customize the parameters to achieve their goal. 
+The version is increased to 3.0 due to the behavior is not backward compatible. If you would like a CSV parser to be similar to MS Excel and MySQL default behavior, this will be a good one. The decision was made due to CIShell Powered tool (http://cishell.org) is targeting users with no or limited programming skills. These users tend to be familiar with MS Excel, OpenOffice, etc. Programmer users can customize the parameters to achieve their goal. 
 
 <b>Please submit your improvement on this version to be shared here. </b>
 
